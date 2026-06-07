@@ -1,4 +1,15 @@
----
+## 06/2026 RMN² Retreat 2026 in Oberwesel
+
+Members of the Aswendt Lab participated in the RMN² Retreat 2026-20.-22.05, bringing together researchers from across the Rhine-Main Neuroscience Network for scientific exchange and networking. The meeting provided an excellent platform to discuss ongoing research, explore emerging methodologies, and strengthen collaborations within the regional neuroscience community. Highlighted current advances in brain research through presentations, poster sessions, and interdisciplinary discussions, that spanning experimental, translational, and computational approaches. We greatly appreciated the opportunity to connect with new colleagues, exchange ideas, and foster novel collaborations. Stay tuned for future developments arising from these exciting interactions! 
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+
+
+</div>
+
+<div style="margin-top: 100px;"></div>
+
+<div style="margin-top: 100px;"></div>
+
 title: News
 layout: page
 ---
